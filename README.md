@@ -1,6 +1,6 @@
 # Overview
 
-BestOfHackerNews is a Rest service that retrieves up to 200  of the best HackerNews stories in JSON format. 
+BestOfHackerNews is a REST service that retrieves up to 200  of the best HackerNews stories in JSON format. 
 
 The 200 story limitiation matches the maximum available from the HackerNews https://hacker-news.firebaseio.com/v0/beststories.json enpoint 
 
